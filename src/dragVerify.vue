@@ -17,12 +17,12 @@
 		name:'dragVerify',
 	props:{
 		width:{
-			type:Number,
-			default:200
+			type:String,
+			default:"200"
 		},
 		height:{
-			type:Number,
-			default:60
+			type:String,
+			default:"60"
 		},
 		text:{
 			type:String,
